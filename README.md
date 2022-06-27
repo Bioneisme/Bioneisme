@@ -21,8 +21,8 @@
 
 
 ## Some Repositories to Visit:
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Bioneisme&repo=startoryx-crowdfunding-nodejs&show_icons=true&theme=algolia)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Bioneisme&repo=moodle-redesign&show_icons=true&theme=algolia)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Bioneisme&repo=nodejs-local-google-facebook-oauth&show_icons=true&theme=algolia)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Bioneisme&repo=telegram-animesearchbot&show_icons=true&theme=algolia)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Bioneisme&repo=flutter-aitu-map&show_icons=true&theme=algolia)
+<a href="https://github.com/Bioneisme/startoryx-crowdfunding-nodejs"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Bioneisme&repo=startoryx-crowdfunding-nodejs&show_icons=true&theme=algolia" /></a>
+<a href="https://github.com/Bioneisme/moodle-redesign"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Bioneisme&repo=moodle-redesign&show_icons=true&theme=algolia" /></a>
+<a href="https://github.com/Bioneisme/nodejs-local-google-facebook-oauth"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Bioneisme&repo=nodejs-local-google-facebook-oauth&show_icons=true&theme=algolia" /></a>
+<a href="https://github.com/Bioneisme/telegram-animesearchbot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Bioneisme&repo=telegram-animesearchbot&show_icons=true&theme=algolia" /></a>
+<a href="https://github.com/Bioneisme/flutter-aitu-map"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Bioneisme&repo=flutter-aitu-map&show_icons=true&theme=algolia" /></a>
