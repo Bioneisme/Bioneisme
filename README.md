@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Bioneisme&label=Profile%20views&color=0e75b6&style=flat" alt="Bioneisme" /> </p>
 
-- 🌱 I’m currently learning **GraphQL**
+- 🌱 I’m currently learning **WebSockets**
 - 👯 I’m looking to collaborate on Web Development Related Projects
-- 🔭 I’m currently working on [nodejs-graphql-mongodb](https://github.com/Bioneisme/nodejs-graphql-mongodb)
+- 🔭 I’m currently working on [nodejs-chatapp](https://github.com/Bioneisme/nodejs-chatapp)
 - 📫 How to reach me: **bioneisme@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
