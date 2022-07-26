@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://t.me/bioneis" target="blank"><img align="center" src="https://www.svgrepo.com/show/299513/telegram.svg" alt="bioneis" height="30" width="40" /></a>
+<a href="https://t.me/bioneisme" target="blank"><img align="center" src="https://www.svgrepo.com/show/299513/telegram.svg" alt="bioneisme" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/bioneisme" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/bioneisme" height="30" width="40" /></a>
 <a href="mailto:bioneisme@gmail.com"><img align="center" src="https://www.svgrepo.com/show/217146/gmail.svg" alt="bioneisme" height="30" width="40" /></a>
 
