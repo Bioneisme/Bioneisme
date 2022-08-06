@@ -4,8 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Bioneisme&label=Profile%20views&color=0e75b6&style=flat" alt="Bioneisme" /> </p>
 
-- 🌱 I’m currently learning **WebSockets**
-- 🔭 I’m currently working on [global-nation-project](https://github.com/Bioneisme/global-nation-project)
+- 🌱 I’m currently learning **TypeScript**
+- 🔭 I’m currently working on [nodejs-telegram-client-mtproto](https://github.com/Bioneisme/nodejs-telegram-client-mtproto)
 - 📫 How to reach me: **bioneisme@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -22,6 +22,7 @@
 ## Some Repositories to Visit:
 <a href="https://github.com/Bioneisme/startoryx-crowdfunding-nodejs"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Bioneisme&repo=startoryx-crowdfunding-nodejs&show_icons=true&theme=algolia" /></a>
 <a href="https://github.com/Bioneisme/nodejs-socket-react-chatapp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Bioneisme&repo=nodejs-socket-react-chatapp&show_icons=true&theme=algolia" /></a>
+<a href="https://github.com/Bioneisme/nodejs-telegram-client-mtproto"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Bioneisme&repo=nodejs-telegram-client-mtproto&show_icons=true&theme=algolia" /></a>
 <a href="https://github.com/Bioneisme/nodejs-local-google-facebook-oauth"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Bioneisme&repo=nodejs-local-google-facebook-oauth&show_icons=true&theme=algolia" /></a>
 <a href="https://github.com/Bioneisme/nodejs-graphql-mongodb"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Bioneisme&repo=nodejs-graphql-mongodb&show_icons=true&theme=algolia" /></a>
 <a href="https://github.com/Bioneisme/telegram-animesearchbot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Bioneisme&repo=telegram-animesearchbot&show_icons=true&theme=algolia" /></a>
