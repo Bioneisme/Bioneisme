@@ -10,7 +10,7 @@
 
 <h3 align="left">My Technical Skills:</h3>
  
-<p><b>Programming Languages:</b> JavaScript, TypeScript Java, Python</p>
+<p><b>Programming Languages:</b> JavaScript, TypeScript, Java, Python</p>
 <b>Software & Tools:</b> 
 <ul>
 <li><b>Back-End:</b> Node.js, Express.js, MongoDB (mongoose), Redis, Sequelize, PostgreSQL</li>
