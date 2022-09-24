@@ -29,6 +29,8 @@
 
 ![Bioneisme's github stats](https://github-readme-stats.vercel.app/api?username=Bioneisme&show_icons=true&theme=algolia)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bioneisme&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Some Repositories to Visit:
 <a href="https://github.com/Bioneisme/startoryx-crowdfunding-nodejs"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Bioneisme&repo=startoryx-crowdfunding-nodejs&show_icons=true&theme=algolia" /></a>
