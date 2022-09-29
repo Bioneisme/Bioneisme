@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Bioneisme&label=Profile%20views&color=0e75b6&style=flat" alt="Bioneisme" /> </p>
 
 - 🌱 I’m currently learning **TypeScript**
-- 🔭 I’m currently working on [nodejs-telegram-client-mtproto](https://github.com/Bioneisme/nodejs-telegram-client-mtproto)
+- 🔭 I’m currently working on -
 - 📫 How to reach me: **bioneisme@gmail.com**
 
 <h3 align="left">My Technical Skills:</h3>
