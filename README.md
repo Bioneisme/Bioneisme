@@ -37,6 +37,7 @@
 <a href="https://github.com/Bioneisme/nodejs-socket-react-chatapp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Bioneisme&repo=nodejs-socket-react-chatapp&show_icons=true&theme=algolia" /></a>
 <a href="https://github.com/Bioneisme/nodejs-telegram-client-mtproto"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Bioneisme&repo=nodejs-telegram-client-mtproto&show_icons=true&theme=algolia" /></a>
 <a href="https://github.com/Bioneisme/gitrepo-downloader-tg-bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Bioneisme&repo=gitrepo-downloader-tg-bot&show_icons=true&theme=algolia" /></a>
+ <a href="https://github.com/Bioneisme/console-book-library"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Bioneisme&repo=console-book-library&show_icons=true&theme=algolia" /></a>
 <a href="https://github.com/Bioneisme/nodejs-local-google-facebook-oauth"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Bioneisme&repo=nodejs-local-google-facebook-oauth&show_icons=true&theme=algolia" /></a>
 <a href="https://github.com/Bioneisme/nodejs-graphql-mongodb"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Bioneisme&repo=nodejs-graphql-mongodb&show_icons=true&theme=algolia" /></a>
 <a href="https://github.com/Bioneisme/telegram-animesearchbot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Bioneisme&repo=telegram-animesearchbot&show_icons=true&theme=algolia" /></a>
