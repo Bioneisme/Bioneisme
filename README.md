@@ -1,10 +1,10 @@
 <img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/>
 <h1 align="center">Hi there 👋, I'm Bioneisme</h1>
-<h3 align="center">NodeJS Developer</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Bioneisme&label=Profile%20views&color=0e75b6&style=flat" alt="Bioneisme" /> </p>
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **Solidity**
 - 🔭 I’m currently working on -
 - 📫 How to reach me: **bioneisme@gmail.com**
 
@@ -13,10 +13,10 @@
 <p><b>Programming Languages:</b> JavaScript, TypeScript, Java, Python</p>
 <b>Software & Tools:</b> 
 <ul>
-<li><b>Back-End:</b> Node.js, Express.js, MongoDB (mongoose), Redis, Sequelize, PostgreSQL</li>
+<li><b>Back-End:</b> Node.js, Express.js, MongoDB (mongoose), Redis, Sequelize, MikroORM, PostgreSQL</li>
 <li><b>Front-End:</b> React, Redux, Axios, HTML5, CSS3, Bootstrap, JS</li>
 <li><b>API:</b> RESTful, WebSockets, GraphQL (Apollo)</li>
-<li><b>Others:</b> Git, Git Flow, OpenAPI, Postman, Docker (docker-compose)</li>
+<li><b>Others:</b> Git, Git Flow, OpenAPI, Postman, Docker (docker-compose), Nginx, Prometheus</li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
