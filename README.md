@@ -27,6 +27,8 @@
 
 ## Github STATS :cyclone: !
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bioneisme&theme=algolia&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" /> 
+ 
 ![Bioneisme's github stats](https://github-readme-stats.vercel.app/api?username=Bioneisme&show_icons=true&theme=algolia)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bioneisme&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
