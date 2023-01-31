@@ -10,13 +10,13 @@
 
 <h3 align="left">My Technical Skills:</h3>
  
-<p><b>Programming Languages:</b> JavaScript, TypeScript, Java, Python</p>
+<p><b>Programming Languages:</b> JavaScript, TypeScript, Solidity, Java</p>
 <b>Software & Tools:</b> 
 <ul>
-<li><b>Back-End:</b> Node.js, Express.js, MongoDB (mongoose), Redis, Sequelize, MikroORM, PostgreSQL</li>
-<li><b>Front-End:</b> React, Redux, Axios, HTML5, CSS3, Bootstrap, JS</li>
+<li><b>Back-End:</b> Node.js, Express.js, MongoDB (mongoose), Redis, Sequelize, MikroORM, PostgreSQL, Telegraf</li>
+<li><b>Front-End:</b> React.js, Redux.js, Web3.js, Axios, HTML5, CSS3</li>
 <li><b>API:</b> RESTful, WebSockets, GraphQL (Apollo)</li>
-<li><b>Others:</b> Git, Git Flow, OpenAPI, Postman, Docker (docker-compose), Nginx, Prometheus</li>
+<li><b>Others:</b> Git, Git Flow, AWS, OpenAPI, Postman, Docker (docker-compose), Nginx, Prometheus, Grafana, Truffle, Ganache</li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
