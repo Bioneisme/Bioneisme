@@ -13,10 +13,9 @@
 <p><b>Programming Languages:</b> JavaScript, TypeScript, Solidity, Java</p>
 <b>Software & Tools:</b> 
 <ul>
-<li><b>Back-End:</b> Node.js, Express.js, MongoDB (mongoose), Redis, Sequelize, MikroORM, PostgreSQL, Telegraf</li>
+<li><b>Back-End:</b> Node.js, Express.js, MongoDB, Mongoose, Redis, Sequelize, MikroORM, PostgreSQL, Telegraf</li>
 <li><b>Front-End:</b> React.js, Redux.js, Web3.js, Axios, HTML5, CSS3</li>
-<li><b>API:</b> RESTful, WebSockets, GraphQL (Apollo)</li>
-<li><b>Others:</b> Git, Git Flow, AWS, OpenAPI, Postman, Docker (docker-compose), Nginx, Prometheus, Grafana, Truffle, Ganache</li>
+<li><b>Others:</b> Git, Git Flow, AWS, OpenAPI, Postman, Docker, Docker-compose, Nginx, Prometheus, Grafana, Truffle, Ganache</li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
