@@ -4,18 +4,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Bioneisme&label=Profile%20views&color=0e75b6&style=flat" alt="Bioneisme" /> </p>
 
-- 🌱 I’m currently learning **Solidity**
+- 🌱 I’m currently learning -
 - 🔭 I’m currently working on -
 - 📫 How to reach me: **bioneisme@gmail.com**
 
 <h3 align="left">My Technical Skills:</h3>
  
-<p><b>Programming Languages:</b> JavaScript, TypeScript, Golang</p>
+<p><b>Programming Languages:</b> JavaScript, TypeScript, Golang, SQL, Bash</p>
 <b>Software & Tools:</b> 
 <ul>
-<li><b>Back-End:</b> Node.js, Express.js, Nest.js, MongoDB, Mongoose, Redis, Sequelize, TypeORM, MikroORM, PostgreSQL, RabbitMQ, Telegraf</li>
-<li><b>Front-End:</b> React.js, Redux.js, Web3.js, Axios, HTML5, CSS3</li>
-<li><b>Others:</b> Git, Git Flow, AWS, OpenAPI, Postman, Docker, Docker-compose, Nginx, Prometheus, Grafana, Truffle, Ganache</li>
+<li><b>Back-End:</b> Node.js, Express.js, Nest.js, MongoDB, PostgreSQL, Redis, Sequelize, MikroORM, TypeORM, RabbitMQ</li>
+<li><b>Front-End:</b> React.js, Next.js, Redux.js, HTML5, CSS3</li>
+<li><b>Platforms:</b>  Linux, Web, Windows, AWS, GCP, Azure</li>
+<li><b>Others:</b>  Git, OpenAPI, Postman, Docker, Docker-compose, Nginx, Prometheus, Grafana, ElasticSearch, Kibana</li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
